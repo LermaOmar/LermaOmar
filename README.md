@@ -22,7 +22,7 @@ I'm especially interested in backend system design, software architecture, distr
 
 ## 🧠 What I Work With
 
-- **Java versions**: 17, 21 and 25
+- **Java versions**: 6, 8, 11, 17, 21 and 25
 - **Frameworks**: Spring Boot, Spring Integration, Hibernate/JPA
 - **Databases**: Oracle, MySQL, PostgreSQL, MongoDB
 - **Architecture**: hexagonal, microservices, event-driven (EDA/EDD), distributed systems
